@@ -20,6 +20,8 @@
 		<jasperreports-functions.version>6.20.0</jasperreports-functions.version>
 		<jasperreports-fonts.version>6.20.0</jasperreports-fonts.version>
 		<aws-java-sdk.version>1.11.670</aws-java-sdk.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
